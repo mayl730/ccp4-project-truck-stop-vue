@@ -6,7 +6,7 @@ This project was created during our time as students of Code Chrysalis. Truck St
 
 ## Web Demo
 
-[Truck Stop Web Demo on Heroku](https://truckstop-project-app.herokuapp.com/)
+[Truck Stop Web Demo on Heroku](https://truckstop-project-app.herokuapp.com/)\
 [Video Demo](https://www.youtube.com/shorts/d1Ykj2bbtSY)
 
 ## Set up
