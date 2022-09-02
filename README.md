@@ -4,6 +4,11 @@
 
 This project was created during our time as students of Code Chrysalis. Truck Stop uses a PostGreSQL database that's connected to the GraphQL library. Truck Stop will allow users to not only see the truck stops and restaurants on the map, but also the restaurant information as well. The Vue front-end application allows data to display in the browser.
 
+## Web Demo
+
+[Truck Stop Web Demo on Heroku](https://truckstop-project-app.herokuapp.com/)
+[Video Demo](https://www.youtube.com/shorts/d1Ykj2bbtSY)
+
 ## Set up
 
 #### Postgres
